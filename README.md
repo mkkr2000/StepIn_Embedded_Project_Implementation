@@ -1,1 +1,1 @@
-# StepIn_Embedded_Project_302388
+# STEPIN_Embedded_Project_302388
